@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Fruitify</string>
+    <string name="errore">Errore</string>
+    <string name="photo">Scatta una foto di un frutto</string>
+    <string name="search">Cerca un frutto</string>
+    <string name="list">Liste della spesa</string>
+    <string name="add_list">Crea una nuova lista della spesa</string>
+    <string name="title">FRUTTA E VERDURA</string>
+    <string name="add_new_list">Titolo nuova lista</string>
+
+    <string name="modify_name_list">Modifica il nome della lista</string>
+
+    <string name="message_add">Aggiungi quantità</string>
+    <string name="message_modify">Modifica quantità</string>
+    <string name="message_add_selection">Seleziona la quantità da aggiungere</string>
+    <string name="message_modify_selection">Seleziona la quantità da modificare</string>
+
+    <string name="all_list">Liste</string>
+    <string name="search_item">Cerca</string>
+    <string name="take_photo">Foto</string>
+    <string name="new_list">Nuova</string>
+    <string name="main_word">Bentornato</string>
+
+    <string name="contentDescription">Caricamento</string>
+
+    <string name="search_list">Cerca Lista</string>
+    <string name="title_all_lists">Le Mie Liste</string>
+    <string name="nth_list_name">%1$s</string>
+
+    <string name="nth_fruit_name">%1$s</string>
+
+    <string name="tutte_le_liste">Le tue liste</string>
+    <string name="frutta">Frutta e Verdura</string>
+    <string name="foto">Inquadra un frutto</string>
+
+    <string name="cerca_articolo">Cerca un articolo</string>
+
+    <string name="dettagli_nutrizionali">Dettagli nutrizionali</string>
+    <string name="energy_j">Energia (J)</string>
+    <string name="energy_cal">Energia (Cal)</string>
+    <string name="proteins">Proteine</string>
+    <string name="carbo">Carboidrati</string>
+    <string name="lipids">Lipidi</string>
+    <string name="fibers">Fibre</string>
+
+    <string name="elimina">Elimina</string>
+    <string name="conferma">Conferma</string>
+    <string name="confirm">Conferma</string>
+    <string name="cancel">Annulla</string>
+    <string name="cancella">Cancella</string>
+
+
+    <string name="aggiungi">Aggiungi alla lista</string>
+    <string name="vedi_dettagli">dettagli del frutto</string>
+    <string name="gestisci_liste">Gestisci le liste</string>
+
+    <string name="nutrition_value">%1$s g</string>
+
+    <string name="toast_insert_fruit">Frutta o Verdura inserita correttamente nella lista</string>
+</resources>

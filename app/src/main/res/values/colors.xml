@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#3F51B5</color>
+    <color name="gray">#d6cfba</color>
+    <color name="light_blue">#329ba8</color>
+    <color name="light_gray">#ACACAC</color>
+
+    <color name="green_text_icons">#477415</color>
+    <color name="green_background">#477415</color>
+
+    <color name="light_yellow_green">#F8FEED</color>
+    <color name="grey_light_border">#D7E2DA</color>
+    <color name="grey_dark_border">#3F6969</color>
+
+    <color name="red_light_border">#BC4951</color>
+    <color name="red_extra_light_background">#E6AFB4</color>
+
+
+    <color name="checkbox_color">#000000</color>
+    <color name="text_color">#000000</color>
+
+    <color name="gray_test">#CAC4C4</color>
+    <color name="grey">#DDDDDD</color>
+
+    <color name="main_green_light">#E9FFD0</color>
+    <color name="main_red_light">#FFB4A6</color>
+    <color name="main_yellow_light">#FFEAC0</color>
+</resources>
